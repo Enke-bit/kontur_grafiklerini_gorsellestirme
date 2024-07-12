@@ -17,3 +17,6 @@ pip install matplotlib numpy
 ## Sonuç
 Bu proje, iki boyutlu veri üzerinde kontur grafiklerini ve renkli görselleştirmeleri nasıl oluşturabileceğinizi gösterir.
 Çeşitli görselleştirme tekniklerini uygulayarak verilerinizi daha anlaşılır bir şekilde sunabilirsiniz.
+
+## 🤝 Katkıda Bulunma
+Projeye katkıda bulunmak isterseniz, lütfen bir pull request oluşturun veya bir issue açın. Her türlü geri bildirime açığız.
